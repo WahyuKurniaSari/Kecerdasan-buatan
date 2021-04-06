@@ -9,6 +9,7 @@ Pada preprocess dengan menggungah file yang telah dibuat dengan format Arff yang
 </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
 ![Preprocess Weka](https://user-images.githubusercontent.com/57054608/113657852-061ba500-96c9-11eb-9513-9644d54af879.PNG)
 
+# LBK
 #LBK
 
 Algoritme IBk tidak membuat model, melainkan menghasilkan prediksi untuk contoh pengujian just-in-time. Algoritme IBk menggunakan ukuran jarak untuk menemukan KNN dalam data pelatihan untuk setiap instans pengujian dan menggunakan instans yang dipilih tersebut untuk membuat prediksi.
