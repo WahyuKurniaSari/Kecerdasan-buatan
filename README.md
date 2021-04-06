@@ -24,3 +24,7 @@ generic object editor weka merupakan suatu komponen inti di Weka untuk memodifik
 # Visualize
 
 Pada visualize di weka ini digunakan untuk mempermudah melihat tampilan data yang telah dibuat sebelumnya
+
+![visual1](https://user-images.githubusercontent.com/57054608/113659803-061da400-96cd-11eb-99b5-d9516968e43f.PNG)
+
+![visual](https://user-images.githubusercontent.com/57054608/113659204-be4a4d00-96cb-11eb-91d7-51573d65899d.PNG)
