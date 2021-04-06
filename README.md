@@ -15,3 +15,12 @@ Algoritme IBk tidak membuat model, melainkan menghasilkan prediksi untuk contoh 
 
 ![Lbk](https://user-images.githubusercontent.com/57054608/113658439-42033a00-96ca-11eb-9e53-570b144c8d28.PNG)
 
+#  Generic Object Editor
+
+generic object editor weka merupakan suatu komponen inti di Weka untuk memodifikasi skema, seperti pengklasifikasi dan filter di GUI. Ini harus dikonfigurasi dengan benar untuk menampilkan skema default dan tambahan, berikut ini merupakan generic object editor  yang telah dibuat
+
+![genric objek editor](https://user-images.githubusercontent.com/57054608/113659182-b094c780-96cb-11eb-958c-6f03ce10173e.PNG)
+
+# Visualize
+
+Pada visualize di weka ini digunakan untuk mempermudah melihat tampilan data yang telah dibuat sebelumnya
